@@ -6,7 +6,7 @@ This container contains the [Chocolatey](https://chocolatey.org/) package manage
 ``docker pull amitie10g/chocolatey:<tag>``
 
 #### Tags
-* ``21H2``, based on Windows Server Core ltsc2022
+* ``21H2`` ``latest``, based on Windows Server Core ltsc2022
 * ``20H2``, based on Windows Server Core 20H2
 * ``2004``, based on Windows Server Core 2004
 * ``1909``, based on Windows Server Core 1909
