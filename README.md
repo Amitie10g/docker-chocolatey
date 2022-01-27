@@ -1,6 +1,6 @@
 ## Chocolatey on Windows Server Core container
 
-This container contains the [Chocolatey](https://chocolatey.org/) package manager, intended for my own projects. It always has the latest version.
+This container contains the [Chocolatey](https://chocolatey.org/) package manager, intended to be used on images where packages from Chocolatey repo are needed.
 
 ### Usage
 ``docker pull amitie10g/chocolatey:<tag>``
